@@ -1,1 +1,1 @@
-# Developing-Typing-Speed-Test-Game(InProg)
+# Developing-Typing-Speed-Test-Game
